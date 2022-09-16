@@ -1,18 +1,18 @@
 # Overview
 
-This program was written to start my GitHub portfolio and familiarize myself with the processs of uploading software in this way.
+This program was written to start my GitHub portfolio and familiarize myself with the process of uploading software in this way.
 
 This is a simple python program to priont Hello World to the console. This was a simple one line program.
 
-Here is a link to my demonatration of the program:
+Here is a link to my demonstration of the program:
 
 [Software Demo Video](https://youtu.be/tyHL1o00nCQ)
 
 # Development Environment
 
-I used visual studio code for this program
+I used Visual Studio Code for this program
 
-Everythin was written in Python
+Everything was written in Python
 
 # Useful Websites
 
